@@ -52,7 +52,8 @@ Contract Address:
 ```
 
 ### Notes:
-IPFS was not used in this project (optional)
+* IPFS was not used in this project (optional)
+* Refer to ReadMe.md file for instructions in Getting Started to run the DApp
 
 ## References
 ### Built With:
