@@ -23,6 +23,7 @@ The following write-up covers the Coffe Supplychain DApp and it's components, in
 ### State Diagram:
 
 ![State Diagram](images/State_Diagram.png)
+
 ### Classes (Data Model) Diagram:
 
 ![Data_Model_Diagram](images/Data_Model_Diagram.png)
@@ -35,7 +36,8 @@ The following write-up covers the Coffe Supplychain DApp and it's components, in
 ### Environment Details:
 * Node: v14.17.3
 * Truffle: v4.1.14
-* Web3:
+* Web3: v6.14.13
+* truffle-assertions: v0.9.2
 
 ### Rinkeby Deployed Contract Details:
 * 
