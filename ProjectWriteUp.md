@@ -33,7 +33,7 @@ The following write-up covers the Coffe Supplychain DApp and it's components, in
 ### Roles
 * Roles - Library for managing addresses assigned to a Role
 
-## General Write
+## General Write-Up
 ### Environment Details:
 * Node: v14.17.3
 * Truffle: v4.1.14
@@ -53,7 +53,7 @@ Contract Address:
 
 ### Notes:
 * IPFS was not used in this project (optional)
-* Refer to ReadMe.md file for instructions in Getting Started to run the DApp
+* Refer to README.md for instructions in Getting Started to run the DApp
 
 ## References
 ### Built With:
