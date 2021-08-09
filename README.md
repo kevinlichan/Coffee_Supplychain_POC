@@ -106,6 +106,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Acknowledgments
 
+* Udacity
 * Solidity
 * Ganache-cli
 * Truffle
