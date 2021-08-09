@@ -18,14 +18,14 @@ The following write-up covers the Coffe Supplychain DApp and it's components, in
 
 ### Sequence Diagram:
 
-![truffle test](images/ftc_product_overview.png)
+![Sequence Diagram](images/Sequence_Diagram.png)
 
 ### State Diagram:
 
-![truffle test](images/ftc_product_overview.png)
+![State Diagram](images/State_Diagram.png)
 ### Classes (Data Model) Diagram:
 
-![truffle test](images/ftc_product_overview.png)
+![Data_Model_Diagram](images/Data_Model_Diagram.png)
 
 ## Libraries Used
 ### Roles
@@ -33,8 +33,8 @@ The following write-up covers the Coffe Supplychain DApp and it's components, in
 
 ## General Write
 ### Environment Details:
-* Node:
-* Truffle:
+* Node: v14.17.3
+* Truffle: v4.1.14
 * Web3:
 
 ### Rinkeby Deployed Contract Details:
