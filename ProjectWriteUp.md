@@ -14,7 +14,7 @@ The following write-up covers the Coffe Supplychain DApp and it's components, in
 ## UML Diagrams
 ### Activity Diagram:
 
-![truffle test](images/ftc_product_overview.png)
+![Activity Diagram](images/Activity_Diagram.png)
 
 ### Sequence Diagram:
 
