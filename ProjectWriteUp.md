@@ -1,6 +1,6 @@
 # Udacity Project 3 - Coffee Supplychain - Write-Up
 
-The following write-up covers the Coffee Supplychain DApp and it's components, include:
+The following write-up covers the Coffee Supplychain DApp and it's components, including:
 * UML Diagrams:
   * Activity
   * Sequence
