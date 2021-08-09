@@ -52,7 +52,7 @@ Contract Address:
 ```
 
 Rinkeby Deployed Contract on Etherscan:
-![Rinkeby Deployed_Contract](images/rinkeby_deployed_contract.png)
+![Rinkeby_Deployed_Contract](images/rinkeby_deployed_contract.png)
 
 ### Notes:
 IPFS was not used in this project (optional)
