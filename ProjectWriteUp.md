@@ -31,7 +31,7 @@ The following write-up covers the Coffe Supplychain DApp and it's components, in
 
 ## Libraries Used
 ### Roles
-* Roles
+* Roles - Library for managing addresses assigned to a Role
 
 ## General Write
 ### Environment Details:
