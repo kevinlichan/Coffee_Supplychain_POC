@@ -51,9 +51,6 @@ Contract Address:
 0xa878803bb73e92349eae6178a04ed653c38c9c67
 ```
 
-Rinkeby Deployed Contract on Etherscan:
-![Rinkeby_Deployed_Contract](images/rinkeby_deployed_contract.png)
-
 ### Notes:
 IPFS was not used in this project (optional)
 
